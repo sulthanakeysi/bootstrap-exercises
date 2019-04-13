@@ -1,0 +1,41 @@
+
+.margin{
+    margin-right: -7px;
+}
+
+
+.gray{
+    background-color: rgb(235, 235, 235);
+    color: rgb(165, 165, 165)
+}
+.padding{
+    padding-top: 230px;
+}
+.font{
+    font-size: 31px;
+}
+.heading{
+    color:#5a5a5a;
+    font-size: 48px;
+}
+#footer{
+    padding-right:50px;
+   
+}
+.pl{
+    padding-left: 740px;
+}
+
+#pb1,#pb2,#pb3{
+    padding-bottom: 70px;
+    padding-left:22px;
+}
+.size4,#size1,#size2,#size3{
+    font-size:1.25rem;
+}
+.color{
+    color: #5a5a5a;
+}
+.card1{
+    padding-bottom: 110px !important;
+}
